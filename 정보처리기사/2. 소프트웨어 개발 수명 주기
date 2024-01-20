@@ -1,0 +1,33 @@
+2. 소프트웨어 개발 수명 주기
+  1)소프트웨어 개발 수명 주기
+    1) 폭포수 모델 : 제품의 기능 보완이 불가능함. 
+    2) 프로토타입 모델 : 폭포수 모델 단점을 보완한 제품, 시제품을 보여줌. 
+    3) 나선형 모델 : 위험 분석기능이 가능. 
+    4) 애자일 모델 : 고객과의 소통중심, 짧은 개발주기
+    
+  2) 스크럼 모델
+    - 특징 : 팀 중심 개발 (확약, 전념, 정직, 존중, 용기)
+    - 구성
+      * 제품 책임자 : 우선순위 조정
+      * 스크럼 마스터 : 업무 가이드 역할
+      * 개발팀 : 개발에 참여하는 인원
+  
+  3) XP모델
+    - 특징 : 짧은 개발 과정 반복 극대화 (의사소통, 단순성, 용기, 존중, 피드백)
+    - 개발 프로세스
+        * 소규모 릴리즈
+        * 스파이크 : 검증을 위해 간단하게 개발하는 프로그램
+        * 이터레이션	: 스파이크가 검증되면 진행
+    - 실천 사항 항목
+        * Planning Game
+        * Small Releases
+        * System Metaphor
+        * Simple Design
+        * Test Driven Development
+        * Design Improvement
+        * Pair Programming
+        * Collective Ownership
+        * Continuous Integration
+        * Sustainable Pace
+        * Whole Team
+        * Coding Standards
